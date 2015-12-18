@@ -1,0 +1,37 @@
+div {
+	display:inline;
+	float:left;
+	height:300px;
+	width:90px;
+	margin: 5px 5px 5px 5px;
+	background-color:green;
+}
+
+p{
+	float:center;
+	color:white;
+	margin-top:140px;
+	margin-left:40px;
+}	
+
+#one {
+	background-color:hsl(0,100%,45%)
+}
+#two {
+	background-color:hsl(30,100%,50%)
+}
+#three {
+	background-color:hsl(60,100%,55%)
+}
+#four {
+	background-color:hsl(90,100%,45%)
+}
+#five {
+	background-color:hsl(180,100%,45%)
+}
+#six {
+	background-color:hsl(220,100%,45%)
+}
+#seven {
+	background-color:hsl(280,100%,45%)
+}
